@@ -34,7 +34,7 @@ We used the python programming language to calculate and map out BI and SPC soft
 </p>
 
 <p float="left">
-<img src="" width="1000" height="600">
+<img src="https://user-images.githubusercontent.com/16822543/198852083-509838dd-4c43-41be-aa6d-dd8013ef2cab.png" width="1000" height="600">
 
 </p>
 
