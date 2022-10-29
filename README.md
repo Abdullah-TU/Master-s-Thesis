@@ -16,4 +16,7 @@ We used the python programming language to calculate and map out BI and SPC soft
 
 # Abstract
 
+## Visualizations
+
+
 
