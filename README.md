@@ -20,21 +20,9 @@ We used the python programming language to calculate and map out BI and SPC soft
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/16822543/198852066-5affa89c-b925-480e-9c77-dcfe55e62296.png" width="1000" height="600">
-
+Best 1 BI tool from the best 30 (Horizontal)
 </p>
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/16822543/198852071-1aadfb34-10fa-4c21-aad5-160f8a64e1bb.png" width="1000" height="600">
-
-</p>
-
-<p float="left">
-<img src="https://user-images.githubusercontent.com/16822543/198852077-52aa69f8-f33f-498d-8fdc-7d8c68f1a73c.png" width="1000" height="600">
-
-</p>
-
-<p float="left">
-<img src="https://user-images.githubusercontent.com/16822543/198852083-509838dd-4c43-41be-aa6d-dd8013ef2cab.png" width="1000" height="600">
 
 </p>
 
