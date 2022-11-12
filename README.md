@@ -28,6 +28,10 @@ Best 1 BI tool from the best 30 (Horizontal)
 Best 5 BI tools from best 30 (Horizontal)
 </p>
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/16822543/198852077-52aa69f8-f33f-498d-8fdc-7d8c68f1a73c.png" width="1000" height="600">
+Best analytics tool from the best 13 (horizontal)
+</p>
 
 
 
