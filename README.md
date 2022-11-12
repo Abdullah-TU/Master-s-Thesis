@@ -35,7 +35,7 @@ Best analytics tool from the best 13 (Vertical)
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/16822543/198852083-509838dd-4c43-41be-aa6d-dd8013ef2cab.png" width="1000" height="600">
-Best analytics tool from the best 13 (Vertical)
+Best 3 analytics tools from the best 13 (Vertical)
 </p>
 
 
