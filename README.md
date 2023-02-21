@@ -1,7 +1,4 @@
-# Master's Thesis
-## Thesis Topic:
-### Map out the best BI tool and SPC software for a case company: selection and rationalization process.
-
+<div style="text-align: justify">
 ## ABSTRACT:
 The Business intelligence (BI) is about delivering relevant and reliable information to the right people at the right time to achieve better decisions faster. To do this, BI requires methods and programs to collect unstructured data, convert it into information, and present it to improve busi-ness decisions. There are many types of BI tools available on the market that perform these tasks. On the other hand, statistical process control (SPC) is used to control the process with the help of statistical tools and techniques. It helps to monitor and control the process, reduce variations in the process, improve product quality, and so on. In this thesis, our main goal is to find the best BI tools and SPC software for the Finland-based automobile manufacturing company Valmet Au-tomotive.
 Valmet Automotive is one of the world's top producers of automobiles and batteries. The or-ganization uses BI and SPC tools for data analysis, visualization, and processing. Nonetheless, businesses confronted challenges in employing these instruments at various periods. We started this thesis to find possible BI and SPC technologies for the organization so that we could solve this problem.
@@ -17,6 +14,19 @@ This file will show how we have completed our calculation method, formulas we ha
 
 We have used Excel and Python programming to map out BI and SPC tools. However, In Excel, we have included a detailed criteria map (including sub-sections), scoring pro-cedures, and calculation formulas in the BI tools sheet. All the scoring and calculations are there. Firstly, we scored each tool according to each criterion and used the formula to get the final weighted score for each tool. We scored all the subsections in the BI and got the total score back to the BI calculation sheet to find the final weighted score.
 Similarly, all the scoring and calculations of SPC software are on the SPC sheet. Firstly, we scored each tool according to each criterion and used the formula to get the final weighted score for each tool. We scored all the subsections in the SPC subsections and got the total score back to the SPC calculation sheet to find the final weighted score 
+
+</div>
+
+<style>
+div {
+    text-align: justify;
+}
+</style>
+
+# Master's Thesis
+## Thesis Topic:
+### Map out the best BI tool and SPC software for a case company: selection and rationalization process.
+
 
 ## File: Evaluation of the best BI tools.ipynb & Evaluation of the best SPC softwares.ipynb
 
