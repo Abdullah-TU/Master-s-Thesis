@@ -2,7 +2,7 @@
 ## Md. Abdullah-Al Mamun
 
 ## Thesis Topic:
-### Map out current BI tools and SPC Software and how that should be rationalized and improved.
+### Map out the best BI tool and SPC software for a case company: selection and rationalization process.
 
 ## ABSTRACT:
 The Business intelligence (BI) is about delivering relevant and reliable information to the right people at the right time to achieve better decisions faster. To do this, BI requires methods and programs to collect unstructured data, convert it into information, and present it to improve busi-ness decisions. There are many types of BI tools available on the market that perform these tasks. On the other hand, statistical process control (SPC) is used to control the process with the help of statistical tools and techniques. It helps to monitor and control the process, reduce variations in the process, improve product quality, and so on. In this thesis, our main goal is to find the best BI tools and SPC software for the Finland-based automobile manufacturing company Valmet Au-tomotive.
