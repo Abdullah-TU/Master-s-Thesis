@@ -1,6 +1,4 @@
 # Master's Thesis
-## Md. Abdullah-Al Mamun
-
 ## Thesis Topic:
 ### Map out the best BI tool and SPC software for a case company: selection and rationalization process.
 
