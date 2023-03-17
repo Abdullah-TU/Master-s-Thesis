@@ -1,5 +1,5 @@
 
-# Master's Thesis
+# 📖 Master's Thesis
 
 ## Thesis Topic:
 ### Map out the best BI tool and SPC software for a case company: selection and rationalization process.
