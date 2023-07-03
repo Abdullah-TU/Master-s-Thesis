@@ -4,6 +4,7 @@
 ## Thesis Topic:
 ### Map out the best BI tool and SPC software for a case company: selection and rationalization process.
 
+https://trepo.tuni.fi/handle/10024/149533
 
 ## File: BI tools and SPC software evaluation and calculations.xlsx
 This file will show how we have completed our calculation method, formulas we have used and so on.
